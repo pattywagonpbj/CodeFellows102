@@ -12,12 +12,10 @@ Have you ever been given a task that was so challenging and you contimplated on 
 
 ### About Me
 
-Hello, my name is Patrick Jarrett and I served in the United States Marine Corps for 8 years. I'm currently doing contracting work in Executive Protection for Google. I have 2 dogs and a one year old son. Some of my hobbies include:
+Hello, my name is Patrick Jarrett and I was born in [Patuxent River, Maryland](https://www.cnic.navy.mil/regions/ndw/installations/nas_patuxent_river.html). I served in the United States Marine Corps for 8 years. I'm currently doing contracting work in Executive Protection for Google's CPO. I have 2 dogs and a one year old son. Some of my hobbies include:
 
 1. Surfing
 2. Snowboarding 
 3. Hiking
 4. Camping 
-5. Spending time with the family. 
-
-[Link](url) and ![Image](src)
+5. Spending time with the family.
