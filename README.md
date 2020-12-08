@@ -1,32 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Patrick's Class 102 Notes
 
-You can use the [editor on GitHub](https://github.com/pattywagonpbj/README.md/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Growth Mindset
+Have you ever been given a task that was so challenging and you contimplated on giving up, but instead you found alternate routes to complete that task? Having a growth mindset is when you get frustrated and you want to quit, but you don't give up until the job is finished. It's when you fail at a challenge and look at that failure as an opportunity to grow instead of beat yourself up about it. Having a growth mindset is where you don't mind trying out new things in life. Most importantly it is when you use feedback and criticism to grow as a person and as an employee or coworker in your industry. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Reminders of how to keep a Growth mindset 
 
-### Markdown
+- Feedback & Criticism are the greatest assets to make you into a better person.
+- Keep practicing day after day until you become proficient.
+- Look for challenges to help improve your skills. 
+- Surround yourself with positive people and use them as insperation. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
+# Hello, my name is Patrick Jarrett 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For e details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
