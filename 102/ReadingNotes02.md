@@ -44,4 +44,3 @@ Everything is a file!
 3. Your Keyboard
 4. Your Monitor
 5. Linux is a file that is continous 
-
