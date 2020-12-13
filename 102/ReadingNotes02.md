@@ -1,4 +1,4 @@
-# Reading Notes 02
+# Reading Notes 01b
 
 ## What is GitHub Pages
 
