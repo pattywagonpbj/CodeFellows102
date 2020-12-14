@@ -22,5 +22,3 @@
 1. Operating System- Main Program that controls how the software should utilize the hardware that is internal to the computer. 
 2. Software: Code
 3. Hardware: circuits, wires, cpu, sound card, mother board.
-
-
