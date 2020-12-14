@@ -6,6 +6,11 @@
 2. [102 Reading 01b](ReadingNotes01b.md)
 3. [102 Reading O2](ReadingNotes02.md)
 4. [102 Reading 03](ReadingNotes03.md)
+5. [102 Reading 04](ReadingNotes04.md)
+6. [102 Reading 05](ReadingNotes05.md)
+7. [102 Reading 06](ReadingNotes06a.md)
+8. []()
+9. 
 
 ### Growth Mindset
 Have you ever been given a task that was so challenging and you contimplated on giving up, but instead you found alternate routes to complete that task? Having a growth mindset is when you get frustrated and you want to quit, but you don't give up until the job is finished. It's when you fail at a challenge and look at that failure as an opportunity to grow instead of beat yourself up about it. Having a growth mindset is where you don't mind trying out new things in life. Most importantly it is when you use feedback and criticism to grow as a person and as an employee or coworker in your industry. 
