@@ -30,11 +30,10 @@ A variable is a temporary storage that stores some information from the script. 
 
 Variable example: var quantity: "var" is the variable keyword and "quantity" is the variable name.
 
-To assign a value to a variable it would look like this: quantitiy=3; "quantitiy=variable name, = is the assignment operator, 3= variable value"
+To assign a value to a variable it would look like this: quantity=3; "quantity=variable name, = is the assignment operator, 3= variable value"
 
 ## Different Data Types
 
 1. Numeric data type: This data type handles numbers, "5.25".
-2. String data type: This data type is construnted of letters and other characters, " 'what's up, Chris".
+2. String data type: This data type is constructed of letters and other characters, " 'what's up, Chris".
 3. Boolean data type: This data is strictly true or false.
-
